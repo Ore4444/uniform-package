@@ -1,0 +1,8 @@
+{
+  "name": "uniform-package",
+  "description": "A plugin for jQuery. Make your form controls look how you want them to.",
+  "homepage": "http://uniformjs.com/",
+  "author": "Josh Pyles / Pixelmatrix Design LLC",
+  "version": "0.0.1",
+  "git": "https://github.com/Ore4444/uniform-package.git"
+}

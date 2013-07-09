@@ -1,0 +1,14 @@
+.highContrastDetect {
+  background-image: url("/packages/uniform/lib/themes/default/images/bg-input.png") repeat-x 0 0;
+}
+textarea.uniform {
+  background-image: url("/packages/uniform/lib/themes/default/images/bg-input.png") repeat-x 0 0;
+}
+input.uniform-input.active,
+select.uniform-multiselect.active,
+textarea.uniform.active {
+  background-image: url("/packages/uniform/lib/themes/default/images/bg-input-focus.png") repeat-x 0 0; 
+}
+div.selector, div.selector span, div.checker span, div.radio span, div.uploader, div.uploader span.action, div.button, div.button span {
+  background-image: url("/packages/uniform/lib/themes/default/images/sprite.png");
+}
