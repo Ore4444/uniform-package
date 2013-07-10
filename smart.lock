@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "uniform-package": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "uniform-package": {
+        "path": "."
+      }
+    }
+  }
+}
